@@ -1,2 +1,2 @@
 # chemysteries
-Have you ever been tired of doing chemistry by hand? Be tired no more!
+Solves the most egregiously long problems known to humanity.
